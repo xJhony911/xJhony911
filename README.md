@@ -1,12 +1,8 @@
+<h2> // About me </h2>
 
-<h1 align="center">Hi , I'm Jonathan Acosta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-<hr/>
-<h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+- 👨‍💻 Currently working as a **front-end developer**
+- 🤓 Seeking to become a **full-stack developer**
+- 🎓 I'm also pursuing a bachelors degree in **software engineering**
 
 ## 🛠️ My Skills
 
@@ -122,22 +118,10 @@
 <br/>
 
 
-## 🙋‍♀️ Let's Connect
-<p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
-</p>
+## Let's Connect :handshake:
 
-<hr/>
-
-* Credit: [Candida18](https://github.com/Candida18)
-* Last Edited on: 20/07/2021
+<a href="https://www.linkedin.com/in/tusharmit/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/techy_tushar"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://www.youtube.com/channel/UCRIV6ndalc_mfIdAN_T2sgA"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-128.png" width="40"></a>|<a href="https://www.facebook.com/tusharmit"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>|<a href="mailto:stevenjaa@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|<a href="https://www.instagram.com/techy.tushar"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a>|<a href="https://www.kaggle.com/techytushar/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
+|--|--|--|--|--|--|--|
 
 
 
