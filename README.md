@@ -2,7 +2,7 @@
 
 - 👨‍💻 Currently working as a **front-end developer**
 - 🤓 Seeking to become a **full-stack developer**
-- 🎓 I'm also pursuing a bachelors degree in **software engineering**
+- 🎓 I'm also pursuing a bachelors degree in **Information Technology Engineering**
 
 ## 🛠️ My Skills
 
